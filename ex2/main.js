@@ -1,7 +1,7 @@
 var app = new Vue({
     el: '#app',
     data: {
-        shopName: 'NoName Shop',
+        shopName: 'PoPon Shop',
         products: [
             {
                 title: "iPhone 11",

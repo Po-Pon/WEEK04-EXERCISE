@@ -30,11 +30,14 @@ var app = new Vue({
             },
             {
                 title: 'Saturday',
-                color: '#9900ff'
+                color: '#9900ff',
+                background: '#000000'
             },
         ],
         counter: 0,
+        isShowing: false,
     },
+
 
     // *** SPOIL เนื้อหาสัปดาห์ถัด ๆ ไป***
 

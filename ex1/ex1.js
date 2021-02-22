@@ -1,8 +1,6 @@
-var app = new Vue({
+var app1 = new Vue({
     el: '#ex1',
-    data1: {
-        student_id: "62070134",
-        student_fname: "พลัฏฐ์",
-        student_lname: "วงศ์สิทธิพรรุ่ง"
-    }
+    data: {student_id: "62070134",
+    student_fname: "พลัฏฐ์",
+    student_lname: " วงศ์สิทธิพรรุ่ง"}
 });
